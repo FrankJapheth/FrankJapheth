@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Franklyne Adede Okwau
+- 👀 I’m interested in Web development, Mobile development and Artificial intelligence.
+- 🌱 I’m currently learning Computer Science
+- 💞️ I’m looking to collaborate on Web development technologies, Mobile development technologies and Artificial intelligence technologies.
+- 📫 How to reach me adedefranklyne@gmail.com
